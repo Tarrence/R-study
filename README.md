@@ -1,3 +1,1 @@
-# mynoneplace
-pythondata
-python tastes good
+R tastes good
